@@ -1,6 +1,6 @@
 # Rock Paper Scissors ML
 
-A group machine learning project for the Holberton program.
+A group machine learning project.
 
 The goal is to train a model that can recognize three hand gestures:
 
